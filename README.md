@@ -18,3 +18,6 @@ Year-over-Year Comparison Between 2020 and 2023: Visualizes Current Year perform
 * Customer Dashboard: Shows total customer count, sales per customer,total orders , top 10 customers by profit among others
 
 * Sales Dashboard: Provides an overview of total sales, profit and quantity soldand trend analyses.
+
+  ![image](https://github.com/user-attachments/assets/058ed5c0-3156-40ac-ada2-033ac8fd1025)
+
