@@ -19,5 +19,8 @@ Year-over-Year Comparison Between 2020 and 2023: Visualizes Current Year perform
 
 * Sales Dashboard: Provides an overview of total sales, profit and quantity soldand trend analyses.
 
-  ![image](https://github.com/user-attachments/assets/058ed5c0-3156-40ac-ada2-033ac8fd1025)
+![image](https://github.com/user-attachments/assets/058ed5c0-3156-40ac-ada2-033ac8fd1025)
+
+![image](https://github.com/user-attachments/assets/9adf57cd-325f-497e-9ea4-beea5bf7711e)
+
 
